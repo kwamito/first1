@@ -1,3 +1,4 @@
+### Instructions
 This is just a simple web development project with python flask.
 To run this:
 1. Install python and add it to path
