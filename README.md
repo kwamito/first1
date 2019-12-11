@@ -6,7 +6,7 @@ To run this:
 3. Use pip to install flask.
 4. Then download these files and copy them to your virtual environment folder and run them.
 
-![Screenshot](gitpic)
+![Screenshot](/gitpic)
 
 
 ```bash
