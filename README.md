@@ -5,9 +5,9 @@ To run this:
 2. Create a new folder or directory and install a python virtual environment in it. 
 3. Use pip to install flask.
 4. Then download these files and copy them to your virtual environment folder and run them.
-'''bash
-$ sudo apt install python
-$ mkdir foldername
-$ virtualenv envname
-$ pip install flask
-'''
+```bash
+1. $ sudo apt install python
+2. $ mkdir foldername
+3. $ virtualenv envname
+4. $ pip install flask
+```
