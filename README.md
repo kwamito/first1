@@ -15,3 +15,5 @@ To run this:
  $ virtualenv envname
  $ pip install flask
 ```
+### What should be seen in the browser
+![screenshot](https://github.com/kwamito/first1/blob/master/scrnshotfuntech.com.jpg?raw=true)
