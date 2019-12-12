@@ -5,8 +5,8 @@ To run this:
 2. Create a new folder or directory and install a python virtual environment in it. 
 3. Use pip to install flask.
 4. Then download these files and copy them to your virtual environment folder and run them.
-![Alt text](relative/gitpic.png?raw=true "Title")
-![Screenshot](https://github.com/kwamito/first1/master/gitpic)
+
+![Screenshot](https://github.com/kwamito/first1/blob/master/gitpic?raw=true)
 
 
 ```bash
